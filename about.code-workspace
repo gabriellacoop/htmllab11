@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../about"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../includes"
+		}
+	]
+}
